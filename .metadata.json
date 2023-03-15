@@ -1,5 +1,9 @@
 [
   {
+    "package": "mase",
+    "oncran": true
+  },
+  {
     "package": "pdxTrees",
     "oncran": true
   }
